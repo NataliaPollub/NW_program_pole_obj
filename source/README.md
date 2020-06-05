@@ -14,6 +14,7 @@ Należy wykonać poniższe kroki:
  2. Wpisz: ./configure
  3. Wpisz: make
  4. Wpisz: mathrix
+
 Aby dokonać bardziej zaawansowanej instalacji zobacz plik INSTALL
 
 ## Sposób działania programu
