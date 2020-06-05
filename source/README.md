@@ -13,7 +13,7 @@ Należy wykonać poniższe kroki:
  1. Wejdź do katologu z programem.
  2. Wpisz: ./configure
  3. Wpisz: make
- 4. Wpisz: mathrix
+ 4. Wpisz: ./mathrix
 
 Aby dokonać bardziej zaawansowanej instalacji zobacz plik INSTALL
 
